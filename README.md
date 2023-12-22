@@ -3,8 +3,8 @@
 ### 15.12.2023
 
 ## Task №1
-This task is located exactly in this repository. Here you can find this file and the required datasets in the corresponding folder.
-[View HW4_task1 Jupyter Notebook](./HW4_task1.ipynb)
+This task is located exactly in this repository. Here you can find this file and the required datasets in the corresponding folder. <br />
+![View HW4_task1 Jupyter Notebook](./HW4_task1.ipynb)
 
 ## Task №2
 This assignment is handwritten.
