@@ -7,5 +7,6 @@ This task is located exactly in this repository. Here you can find this file and
 
 ## Task №2
 This assignment is handwritten.
-![Image alt](https://github.com/Mike-cloud-17/HSE_OSDA_HW4/raw/main/images/HW4_task2_page1.jpg)
-![Image alt](https://github.com/Mike-cloud-17/HSE_OSDA_HW4/raw/main/images/HW4_task2_page2.jpg)
+![Image alt](./images/HW4_task2_page1.jpg)
+![Image alt](./images/HW4_task2_page2.jpg)
+
