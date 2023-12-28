@@ -24,4 +24,4 @@ All the notebooks related to the Big Home Assignment can be found in this reposi
 [View Big Home assignment №4 Jupyter Notebook](./OSDA_BHA4.ipynb)
 
 ## Big home assignment report  <br />
-[View Big Home assignment Report Jupyter Notebook](./OSDA_BIGHA_REPORT.ipynb)
+[View Big Home assignment Report Jupyter Notebook](./OSDA_BIG_HA_REPORT.pdf)
